@@ -3,7 +3,7 @@
 SELECT * 
 FROM Table 
 
-# The * can be replaced should you want specific columns only. 
+# The * can be replaced if you want specific columns only. 
 
 SELECT Column_Name 
 FROM Table
