@@ -14,7 +14,7 @@ LIMIT 15;
 
 # Next is ORDER BY. This does exactly what you think. Orders from lowest to 
 # highest, A to Z, earliest to latest AKA Ascending Order. DESC at the end
-# should you want the opposite results.  
+# if you want the opposite results.  
 # The important note is that it must come after the FROM keyword and 
 # before the LIMIT. 
 
