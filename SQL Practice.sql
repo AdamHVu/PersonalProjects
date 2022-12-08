@@ -1,4 +1,4 @@
-# The Most Generic Query, Grabs All Info from Table
+# The Most Generic Query, Grabs All Info From Table
 
 SELECT * 
 FROM Table 
