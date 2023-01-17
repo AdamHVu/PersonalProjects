@@ -78,7 +78,7 @@ WHERE name = 'Exxon Mobil';
 # You can use operators (+-*/) when selecting columns you may want to use 
 # to combine. This will generate a derived column, AKA a column who outputs
 # whatever operator you wanted to the selected columns. To name this new 
-# column, simply add AS to the end followed by the name (make sure it does
+# column, simply add AS to end followed by the name (make sure it does
 # include captials or spaces.)
 
 # In this example query, we output a new column that takes the amount of 
