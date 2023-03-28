@@ -75,7 +75,7 @@ SELECT name, website, primary_poc
 FROM accounts
 WHERE name = 'Exxon Mobil';
 
-# You can use operators (+-*/) when selecting columns you may want to use 
+# You can use operators (+-*/) when selecting columns, you may want to use 
 # to combine. This will generate a derived column, AKA a column who outputs
 # whatever operator you wanted to the selected columns. To name this new 
 # column, simply add AS to end followed by the name (make sure it does
