@@ -218,7 +218,7 @@ ON orders.account_id = accounts.id
 
 # When joining, we will always take from the original table's Primary Key and JOIN
 # it with the second table's foriegn key. A foriegn key is just a subset of a primary key.
-# The ordering doesn't super matter but the PK and FK must always be linked.
+# The ordering doesn't matter but the PK and FK must always be linked.
 
 # In this example query, this joins more than just one table. Always keep in mind
 # the primary key but overall the formatting is the same. If an ERD is avaiable,
