@@ -9,7 +9,7 @@ SELECT Column_Name
 FROM Table
 LIMIT 15;
 
-# You can use a limit to well limit results so that you do not have 
+# You can use a limit to limit results so that you do not have 
 # to waste time grabbing all the data should you not need all of it.
 
 # Next is ORDER BY. This does exactly what you think. Orders from lowest to 
