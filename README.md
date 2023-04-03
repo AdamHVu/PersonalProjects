@@ -3,4 +3,4 @@ This is where I will insert any code that I do for any job applications or inter
 
 While it's not code, I still may upload important information for my own sake if needed.
 
-SQL, Tableau, and Excel in the works
+SQL, Tableau, and Excel in the works.
